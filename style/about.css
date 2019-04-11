@@ -12,24 +12,23 @@ body {
 }
 
 h1 {
-	font-family:Century Gothic, sans-serif;
+	font-family: Courier, sans-serif;
 	font-weight:900;
 	font-size:45px;
-	color:#76E9A7;
+	color:#000000;
 	padding:1px 0px 0px 0px;
 	letter-spacing:2px;
 	text-align:center;
 }
 
 h2 {
-	font-family:Century Gothic, sans-serif;
-	font-weight:500;
-	font-size:20px;
-	color:#717171;
-	letter-spacing:1px;
-	padding:0px 0px 1px 0px;
+	font-family: Courier, sans-serif;
+	font-weight:900;
+	font-size:45px;
+	color:#000000;
+	padding:1px 0px 0px 0px;
+	letter-spacing:2px;
 	text-align:center;
-}
 
 nav {
 	text-align: center;
@@ -50,7 +49,7 @@ li {
 	letter-spacing: 0.05em;
 	font-style: normal;
 	font-weight: 700;
-	font-family: Century Gothic, sans-serif;
+	font-family: Courier, sans-serif;
 }
 
 .signupbutton {
@@ -98,7 +97,7 @@ a:hover {
 }
 
 h3 {
-	font-family:Century Gothic, sans-serif;
+	font-family:Courier, sans-serif;
 	color:#659FF9;
 	background-color:#FFFFFF;
 	padding:8px;
@@ -107,14 +106,14 @@ h3 {
 }
 
 h4 {
-	font-family:Century Gothic, sans-serif;
+	font-family:Courier, sans-serif;
 	font-weight:bold;
 	letter-spacing:1px;
 	text-align:center;
 }
 
 #main {
-	font-family:Century Gothic, sans-serif;
+	font-family:Courier, sans-serif;
 	color:#717171;
 	background-color:#F7FFAD;
 	height:auto;
@@ -125,7 +124,7 @@ h4 {
 }
 
 #sidebar {
-	font-family:Century Gothic, sans-serif;
+	font-family:Courier, sans-serif;
 	color:#717171;
 	height:auto;
 	padding:20px;
